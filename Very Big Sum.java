@@ -10,4 +10,4 @@ long sum=0;
 for(int i=0;i<x;i++)
 {sum=sum+y[i];}
 System.out.print(sum);
-}}
+}} 
