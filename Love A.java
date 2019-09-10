@@ -12,4 +12,4 @@ if(u>(x.length()/2))
 else{if(u==1){y=1;}
 else{y=(u*2)-1;}}
 System.out.print(y);
-}}
+}} 
