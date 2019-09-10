@@ -15,4 +15,4 @@ if(w!=ss.length()/2){z=false;}}
 if(z==false){System.out.print(":(");}
 else{
 System.out.print(s.substring(0,s.length()-w));}
-}}
+}} 
